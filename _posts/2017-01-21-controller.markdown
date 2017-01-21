@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "控制器术语"
+subtitle:   ""
 date:       2017-01-21 14:32:00
 author:     "Jeky"
 header-img: "img/post-bg-2015.jpg"
